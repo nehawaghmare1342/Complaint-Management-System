@@ -29,28 +29,3 @@ MySQL
 Maven
 HTML / CSS
 
-📂 Project Structure
-com.project.complaint
-│
-├── controller
-│   ├── ComplaintController.java
-│   └── DashboardController.java
-│
-├── service
-│   ├── ComplaintService.java
-│   └── ComplaintServiceImpl.java
-│
-├── repository
-│   └── ComplaintRepository.java
-│
-├── entity
-│   └── Complaint.java
-│
-└── resources
-    ├── templates
-    │   ├── dashboard.html
-    │   ├── complaints-list.html
-    │   ├── complaint-form.html
-    │   └── complaint-view.html
-    └── application.properties
-
